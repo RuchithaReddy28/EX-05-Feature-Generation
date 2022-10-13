@@ -189,7 +189,7 @@ df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass'
 df5
 ```
 # OUPUT
-### Data.csv:
+# Data.csv:
 ## Initial Dataset:
 ![output](https://github.com/RuchithaReddy28/EX-05-Feature-Generation/blob/main/r1.png?raw=true)
 ## Binary Encoding:
@@ -204,7 +204,7 @@ df5
 ![output](https://github.com/RuchithaReddy28/EX-05-Feature-Generation/blob/main/r6.png?raw=true)
 ## Data Scaling using RobustScaler:
 ![output](https://github.com/RuchithaReddy28/EX-05-Feature-Generation/blob/main/r7.png?raw=true)
-### Encoding.csv:
+# Encoding.csv:
 ## Initial Dataset:
 ![output](https://github.com/RuchithaReddy28/EX-05-Feature-Generation/blob/main/r8.png?raw=true)
 ## Binary Encoding:
@@ -219,8 +219,7 @@ df5
 ![output](https://github.com/RuchithaReddy28/EX-05-Feature-Generation/blob/main/r13.png?raw=true)
 ## Data Scaling using RobustScaler:
 ![output](https://github.com/RuchithaReddy28/EX-05-Feature-Generation/blob/main/r14.png?raw=true)
-### Titanic.csv:
-## Initial Data.set:
+# Titanic.csv:
 ## Initial Dataset:
 ![output](https://github.com/RuchithaReddy28/EX-05-Feature-Generation/blob/main/r15.png?raw=true)
 ## Data cleaning before encoding:
